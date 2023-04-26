@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\happy\source\repos\porfavorfunciona\porfavorfunciona\main.cpp(28,9): warning C4551: function call missing argument list
+  Generating code
+  1 of 132 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  porfavorfunciona.vcxproj -> C:\Users\happy\source\repos\porfavorfunciona\x64\Release\porfavorfunciona.exe
